@@ -1,10 +1,9 @@
 # MERN Stack Test Application
 
 ## Overview
-This is a **MERN Stack application** built as part of a technical assessment.  
+This is a MERN Stack application built as part of a technical assessment.  
 The application includes:
-
-- User authentication (login & session management)
+- User authentication
 - Dashboard with multiple sections:
   - Add Agents
   - Upload
